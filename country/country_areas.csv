@@ -1,0 +1,196 @@
+id,name,area
+Q1000,Gabon,267667.0
+Q1005,Gambia,11300.0
+Q1006,Guinea,245857.0
+Q1007,Guinea-Bissau,36125.0
+Q1008,Ivory Coast,322463.0
+Q1009,Cameroon,475442.0
+Q1011,Cape Verde,4033.0
+Q1013,Lesotho,30355.0
+Q1014,Liberia,111369.0
+Q1016,Libya,1759541.0
+Q1019,Madagascar,587041.0
+Q1020,Malawi,118484.186083
+Q1025,Mauritania,1030700.0
+Q1027,Mauritius,2040.0
+Q1028,Morocco,446550.0
+Q1029,Mozambique,801590.0
+Q1030,Namibia,825615.0
+Q1032,Niger,1268260.197893
+Q1033,Nigeria,923768.0
+Q1036,Uganda,241038.0
+Q1037,Rwanda,26338.0
+Q1039,São Tomé and Príncipe,1001.0
+Q1041,Senegal,196722.0
+Q1042,Seychelles,459.0
+Q1044,Sierra Leone,71740.0
+Q1045,Somalia,637657.0
+Q1049,Sudan,1886068.0
+Q1050,Eswatini,17364.0
+Q114,Kenya,581309.0
+Q115,Ethiopia,1104300.0
+Q117,Ghana,238535.0
+Q142,France,643801.0
+Q145,United Kingdom,242495.406794
+Q148,People's Republic of China,9596961.0
+Q155,Brazil,8515767.0
+Q159,Russia,17125200.0
+Q16,Canada,9984670.0
+Q17,Japan,377972.28
+Q183,Germany,357400.0
+Q184,Belarus,207600.496983
+Q189,Iceland,103004.0
+Q191,Estonia,45339.0
+Q20,Norway,385207.0
+Q211,Latvia,64589.0
+Q212,Ukraine,603629.0
+Q213,Czech Republic,78866.0
+Q214,Slovakia,49035.0
+Q215,Slovenia,20273.0
+Q217,Moldova,33846.0
+Q218,Romania,238397.0
+Q219,Bulgaria,110993.6
+Q221,North Macedonia,25713.0
+Q222,Albania,28748.0
+Q224,Croatia,56594.0
+Q225,Bosnia and Herzegovina,51197.0
+Q227,Azerbaijan,86600.0
+Q228,Andorra,468.0
+Q229,Republic of Cyprus,9242.45
+Q230,Georgia,69700.0
+Q232,Kazakhstan,2724900.0
+Q233,Malta,316.0
+Q235,Monaco,2.026976
+Q236,Montenegro,13812.0
+Q237,Vatican City,0.44029700000000005
+Q238,San Marino,61.2
+Q241,Cuba,109884.0
+Q242,Belize,22966.0
+Q244,Barbados,439.0
+Q252,Indonesia,1904570.0
+Q258,South Africa,1221037.0
+Q262,Algeria,2381741.0
+Q265,Uzbekistan,448978.0
+Q27,Ireland,70273.0
+Q28,Hungary,93011.4
+Q29,Spain,505990.0
+Q298,Chile,756102.0
+Q29999,Kingdom of the Netherlands,42201.0
+Q30,United States of America,9826675.0
+Q31,Belgium,30528.0
+Q32,Luxembourg,2586.4
+Q33,Finland,338424.38
+Q334,Singapore,719.1
+Q34,Sweden,528861.06
+Q347,Liechtenstein,160.0
+Q35,Denmark,42925.46
+Q36,Poland,312683.0
+Q37,Lithuania,65300.0
+Q38,Italy,301338.0
+Q39,Switzerland,41285.0
+Q398,Bahrain,765.004788
+Q399,Armenia,29743.423458999998
+Q40,Austria,83878.99
+Q403,Serbia,88361.0
+Q408,Australia,7692024.0
+Q41,Greece,131957.0
+Q414,Argentina,2780400.0
+Q419,Peru,1285216.0
+Q423,North Korea,120540.0
+Q424,Cambodia,181035.0
+Q43,Turkey,783562.05296
+Q45,Portugal,92212.0
+Q574,East Timor,14918.72
+Q657,Chad,1284000.0
+Q664,New Zealand,268021.0
+Q668,India,3287263.0
+Q672,Tuvalu,26.0
+Q678,Tonga,748.506563
+Q683,Samoa,2842.0
+Q685,Solomon Islands,28400.0
+Q686,Vanuatu,12190.0
+Q691,Papua New Guinea,462840.0
+Q695,Palau,465.550362
+Q697,Nauru,21.0
+Q702,Federated States of Micronesia,702.0
+Q709,Marshall Islands,181.43
+Q710,Kiribati,811.0
+Q711,Mongolia,1566000.0
+Q712,Fiji,18274.0
+Q717,Venezuela,916445.0
+Q730,Suriname,163270.0
+Q733,Paraguay,406756.0
+Q734,Guyana,214970.0
+Q736,Ecuador,283560.0
+Q739,Colombia,1141748.0
+Q750,Bolivia,1098581.0
+Q754,Trinidad and Tobago,5128.0
+Q756617,Kingdom of Denmark,42993.0
+Q757,Saint Vincent and the Grenadines,389.0
+Q760,Saint Lucia,617.012867
+Q763,Saint Kitts and Nevis,269.358763
+Q766,Jamaica,10991.90954
+Q769,Grenada,348.5
+Q77,Uruguay,176215.0
+Q774,Guatemala,108889.0
+Q778,Bahamas,13878.0
+Q781,Antigua and Barbuda,440.29
+Q783,Honduras,112492.0
+Q784,Dominica,751.096551
+Q786,Dominican Republic,48670.82
+Q79,Egypt,1010407.87
+Q790,Haiti,27750.0
+Q792,El Salvador,20742.0
+Q794,Iran,1648195.0
+Q796,Iraq,437072.0
+Q800,Costa Rica,51100.0
+Q801,Israel,20770.0
+Q804,Panama,74177.3
+Q805,Yemen,555000.0
+Q810,Jordan,89341.0
+Q811,Nicaragua,130375.0
+Q813,Kyrgyzstan,199951.0
+Q817,Kuwait,17818.0
+Q819,Laos,236800.0
+Q822,Lebanon,10452.0
+Q826,Maldives,298.0
+Q833,Malaysia,330290.0
+Q836,Myanmar,676577.2
+Q837,Nepal,147181.254346
+Q842,Oman,309500.0
+Q843,Pakistan,881913.0
+Q846,Qatar,11437.0
+Q851,Saudi Arabia,2250000.0
+Q854,Sri Lanka,65610.0
+Q858,Syria,185180.0
+Q863,Tajikistan,143100.0
+Q869,Thailand,513119.5
+Q874,Turkmenistan,491210.0
+Q878,United Arab Emirates,83600.0
+Q881,Vietnam,331690.0
+Q884,South Korea,100295.0
+Q889,Afghanistan,652230.0
+Q902,Bangladesh,147570.0
+Q912,Mali,1240192.0
+Q916,Angola,1246700.0
+Q917,Bhutan,38394.0
+Q921,Brunei,5765.313533
+Q924,Tanzania,947303.0
+Q928,Philippines,343448.0
+Q929,Central African Republic,622984.0
+Q945,Togo,56785.0
+Q948,Tunisia,163610.0
+Q953,Zambia,752618.0
+Q954,Zimbabwe,390757.0
+Q958,South Sudan,619745.304981
+Q96,Mexico,1972550.0
+Q962,Benin,114763.0
+Q963,Botswana,581737.0
+Q965,Burkina Faso,274200.0
+Q967,Burundi,27834.0
+Q970,Comoros,2034.0
+Q971,Republic of the Congo,342000.0
+Q974,Democratic Republic of the Congo,2344858.0
+Q977,Djibouti,23200.0
+Q983,Equatorial Guinea,28051.0
+Q986,Eritrea,117600.0

@@ -1,0 +1,208 @@
+id,name,continent
+Q1000,Gabon,AF
+Q1005,Gambia,AF
+Q1006,Guinea,AF
+Q1007,Guinea-Bissau,AF
+Q1008,Ivory Coast,AF
+Q1009,Cameroon,AF
+Q1011,Cape Verde,AF
+Q1013,Lesotho,AF
+Q1014,Liberia,AF
+Q1016,Libya,AF
+Q1019,Madagascar,AF
+Q1020,Malawi,AF
+Q1025,Mauritania,AF
+Q1027,Mauritius,AF
+Q1028,Morocco,AF
+Q1029,Mozambique,AF
+Q1030,Namibia,AF
+Q1032,Niger,AF
+Q1033,Nigeria,AF
+Q1036,Uganda,AF
+Q1037,Rwanda,AF
+Q1039,São Tomé and Príncipe,AF
+Q1041,Senegal,AF
+Q1042,Seychelles,AF
+Q1044,Sierra Leone,AF
+Q1045,Somalia,AF
+Q1049,Sudan,AF
+Q1050,Eswatini,AF
+Q114,Kenya,AF
+Q115,Ethiopia,AF
+Q117,Ghana,AF
+Q142,France,EU
+Q145,United Kingdom,EU
+Q148,People's Republic of China,AS
+Q155,Brazil,SA
+Q159,Russia,AS
+Q159,Russia,EU
+Q16,Canada,NA
+Q17,Japan,AS
+Q183,Germany,EU
+Q184,Belarus,EU
+Q189,Iceland,EU
+Q191,Estonia,EU
+Q20,Norway,EU
+Q211,Latvia,EU
+Q212,Ukraine,EU
+Q213,Czech Republic,EU
+Q214,Slovakia,EU
+Q215,Slovenia,EU
+Q217,Moldova,EU
+Q218,Romania,EU
+Q219,Bulgaria,EU
+Q221,North Macedonia,EU
+Q222,Albania,EU
+Q224,Croatia,EU
+Q225,Bosnia and Herzegovina,EU
+Q227,Azerbaijan,AS
+Q227,Azerbaijan,EU
+Q228,Andorra,EU
+Q229,Republic of Cyprus,AS
+Q229,Republic of Cyprus,EU
+Q230,Georgia,AS
+Q230,Georgia,EU
+Q232,Kazakhstan,AS
+Q232,Kazakhstan,EU
+Q233,Malta,EU
+Q235,Monaco,EU
+Q236,Montenegro,EU
+Q237,Vatican City,EU
+Q238,San Marino,EU
+Q241,Cuba,NA
+Q242,Belize,NA
+Q244,Barbados,NA
+Q252,Indonesia,AS
+Q258,South Africa,AF
+Q262,Algeria,AF
+Q265,Uzbekistan,AS
+Q27,Ireland,EU
+Q28,Hungary,EU
+Q29,Spain,EU
+Q298,Chile,SA
+Q29999,Kingdom of the Netherlands,EU
+Q29999,Kingdom of the Netherlands,NA
+Q30,United States of America,OC
+Q30,United States of America,NA
+Q31,Belgium,EU
+Q32,Luxembourg,EU
+Q33,Finland,EU
+Q334,Singapore,AS
+Q34,Sweden,EU
+Q347,Liechtenstein,EU
+Q35,Denmark,EU
+Q36,Poland,EU
+Q37,Lithuania,EU
+Q38,Italy,EU
+Q39,Switzerland,EU
+Q398,Bahrain,AS
+Q399,Armenia,AS
+Q399,Armenia,EU
+Q40,Austria,EU
+Q403,Serbia,EU
+Q408,Australia,OC
+Q41,Greece,EU
+Q414,Argentina,SA
+Q419,Peru,SA
+Q423,North Korea,AS
+Q424,Cambodia,AS
+Q43,Turkey,AS
+Q43,Turkey,EU
+Q45,Portugal,EU
+Q574,East Timor,AS
+Q657,Chad,AF
+Q664,New Zealand,OC
+Q668,India,AS
+Q672,Tuvalu,OC
+Q678,Tonga,OC
+Q683,Samoa,OC
+Q685,Solomon Islands,OC
+Q686,Vanuatu,OC
+Q691,Papua New Guinea,OC
+Q695,Palau,OC
+Q697,Nauru,OC
+Q702,Federated States of Micronesia,OC
+Q709,Marshall Islands,OC
+Q710,Kiribati,OC
+Q711,Mongolia,AS
+Q712,Fiji,OC
+Q717,Venezuela,SA
+Q730,Suriname,SA
+Q733,Paraguay,SA
+Q734,Guyana,SA
+Q736,Ecuador,SA
+Q739,Colombia,SA
+Q750,Bolivia,SA
+Q754,Trinidad and Tobago,NA
+Q756617,Kingdom of Denmark,EU
+Q756617,Kingdom of Denmark,NA
+Q757,Saint Vincent and the Grenadines,NA
+Q760,Saint Lucia,NA
+Q763,Saint Kitts and Nevis,NA
+Q766,Jamaica,NA
+Q769,Grenada,NA
+Q77,Uruguay,SA
+Q774,Guatemala,NA
+Q778,Bahamas,NA
+Q781,Antigua and Barbuda,NA
+Q783,Honduras,NA
+Q784,Dominica,NA
+Q786,Dominican Republic,NA
+Q79,Egypt,AF
+Q79,Egypt,AS
+Q790,Haiti,NA
+Q792,El Salvador,NA
+Q794,Iran,AS
+Q796,Iraq,AS
+Q800,Costa Rica,NA
+Q801,Israel,AS
+Q804,Panama,NA
+Q804,Panama,SA
+Q805,Yemen,AS
+Q810,Jordan,AS
+Q811,Nicaragua,NA
+Q813,Kyrgyzstan,AS
+Q817,Kuwait,AS
+Q819,Laos,AS
+Q822,Lebanon,AS
+Q826,Maldives,AS
+Q833,Malaysia,AS
+Q836,Myanmar,AS
+Q837,Nepal,AS
+Q842,Oman,AS
+Q843,Pakistan,AS
+Q846,Qatar,AS
+Q851,Saudi Arabia,AS
+Q854,Sri Lanka,AS
+Q858,Syria,AS
+Q863,Tajikistan,AS
+Q869,Thailand,AS
+Q874,Turkmenistan,AS
+Q878,United Arab Emirates,AS
+Q881,Vietnam,AS
+Q884,South Korea,AS
+Q889,Afghanistan,AS
+Q902,Bangladesh,AS
+Q912,Mali,AF
+Q916,Angola,AF
+Q917,Bhutan,AS
+Q921,Brunei,AS
+Q924,Tanzania,AF
+Q928,Philippines,AS
+Q929,Central African Republic,AF
+Q945,Togo,AF
+Q948,Tunisia,AF
+Q953,Zambia,AF
+Q954,Zimbabwe,AF
+Q958,South Sudan,AF
+Q96,Mexico,NA
+Q962,Benin,AF
+Q963,Botswana,AF
+Q965,Burkina Faso,AF
+Q967,Burundi,AF
+Q970,Comoros,AF
+Q971,Republic of the Congo,AF
+Q974,Democratic Republic of the Congo,AF
+Q977,Djibouti,AF
+Q983,Equatorial Guinea,AF
+Q986,Eritrea,AF
